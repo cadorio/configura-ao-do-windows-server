@@ -1,4 +1,4 @@
-# configura-ao-do-windows-server
+# configurar-servidor-de-ficheiros-windows-server-2012
 Introdução
 No correr deste manual vais constar como podemos instalar passo a passo e configurar um servidor de ficheiros no Windows server 2012
 
